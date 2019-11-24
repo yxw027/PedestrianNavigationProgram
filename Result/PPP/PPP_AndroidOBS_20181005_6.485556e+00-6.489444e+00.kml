@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+  <name>Rover d</name>
+  <Style>
+    <LineStyle>
+      <color>aa00FF00</color>
+    </LineStyle>
+  </Style>
+  <LineString>
+    <coordinates>
+       0135.9625686781,0034.9831779055,0191.6665857406
+       0135.9625437279,0034.9831927029,0192.2024070080
+       0135.9625146868,0034.9832178952,0192.2401420763
+       0135.9625007793,0034.9832041054,0192.1069509508
+       0135.9624925029,0034.9832292549,0192.3770724004
+       0135.9624711883,0034.9832374086,0192.2052349662
+       0135.9624637031,0034.9832485291,0192.4288870599
+       0135.9624466758,0034.9832677351,0192.6273408523
+       0135.9624325881,0034.9832805845,0192.4862715686
+       0135.9624204765,0034.9832900090,0192.7126904763
+       0135.9624114571,0034.9832948188,0192.4901899276
+       0135.9624008479,0034.9833031581,0192.4195422446
+       0135.9623888651,0034.9833172271,0192.5321478108
+       0135.9623809577,0034.9833257614,0192.4131505964
+       0135.9623679487,0034.9833383606,0192.4636090221
+    </coordinates>
+  </LineString>
+</Placemark>
+<Folder>
+<Placemark>
+  <name>   1-2021-455348T23348:2018:10.00Z</name>
+  <description>   1-2021-455348T23348:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   1-2021-455348T23348:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962568678,   34.983177905,  191.666585741</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   2-2021-455349T23349:2018:10.00Z</name>
+  <description>   2-2021-455349T23349:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   2-2021-455349T23349:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962543728,   34.983192703,  192.202407008</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   3-2021-455350T23350:2018:10.00Z</name>
+  <description>   3-2021-455350T23350:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   3-2021-455350T23350:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962514687,   34.983217895,  192.240142076</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   4-2021-455351T23351:2018:10.00Z</name>
+  <description>   4-2021-455351T23351:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   4-2021-455351T23351:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962500779,   34.983204105,  192.106950951</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   5-2021-455352T23352:2018:10.00Z</name>
+  <description>   5-2021-455352T23352:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   5-2021-455352T23352:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962492503,   34.983229255,  192.377072400</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   6-2021-455353T23353:2018:10.00Z</name>
+  <description>   6-2021-455353T23353:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   6-2021-455353T23353:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962471188,   34.983237409,  192.205234966</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   7-2021-455354T23354:2018:10.00Z</name>
+  <description>   7-2021-455354T23354:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   7-2021-455354T23354:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962463703,   34.983248529,  192.428887060</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   8-2021-455355T23355:2018:10.00Z</name>
+  <description>   8-2021-455355T23355:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   8-2021-455355T23355:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962446676,   34.983267735,  192.627340852</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   9-2021-455356T23356:2018:10.00Z</name>
+  <description>   9-2021-455356T23356:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   9-2021-455356T23356:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962432588,   34.983280584,  192.486271569</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  10-2021-455357T23357:2018:10.00Z</name>
+  <description>  10-2021-455357T23357:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  10-2021-455357T23357:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962420476,   34.983290009,  192.712690476</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  11-2021-455358T23358:2018:10.00Z</name>
+  <description>  11-2021-455358T23358:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  11-2021-455358T23358:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962411457,   34.983294819,  192.490189928</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  12-2021-455359T23359:2018:10.00Z</name>
+  <description>  12-2021-455359T23359:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  12-2021-455359T23359:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962400848,   34.983303158,  192.419542245</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  13-2021-455360T23360:2018:10.00Z</name>
+  <description>  13-2021-455360T23360:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  13-2021-455360T23360:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962388865,   34.983317227,  192.532147811</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  14-2021-455361T23361:2018:10.00Z</name>
+  <description>  14-2021-455361T23361:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  14-2021-455361T23361:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962380958,   34.983325761,  192.413150596</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  15-2021-455362T23362:2018:10.00Z</name>
+  <description>  15-2021-455362T23362:2018:10.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  15-2021-455362T23362:2018:10.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962367949,   34.983338361,  192.463609022</coordinates>
+  </Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

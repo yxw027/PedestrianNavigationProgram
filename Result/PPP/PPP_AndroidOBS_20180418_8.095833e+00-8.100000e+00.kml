@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+  <name>Rover d</name>
+  <Style>
+    <LineStyle>
+      <color>aa00FF00</color>
+    </LineStyle>
+  </Style>
+  <LineString>
+    <coordinates>
+    </coordinates>
+  </LineString>
+</Placemark>
+<Folder>
+</Folder>
+</Document>
+</kml>

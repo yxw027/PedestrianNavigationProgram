@@ -1,0 +1,150 @@
+% 2016îN 7åé 29ì˙ 13éû 19ï™ 11.670000ïb é¿çs
+%------------------------------------------------------------------------------------------------------------------------------
+Observation File :  03383650.15o
+Ephemeris   File :  03383650.15n
+IONEX       File :  Nothing
+IGS SP3     File :  Nothing
+START       TIME :  2015/12/31 10: 0: 0
+END         TIME :  2015/12/31 11: 7:30
+Ref. Position[m] :  X = -3762296.7645,  Y = 3685992.5241,  Z = 3585585.4878
+True Position[m] :  X = -3762367.3634,  Y = 3680867.5254,  Z = 3590465.3036
+True Baseline[m] :     7076.9484
+
+%-------------------------------------------------------------------------------------------------------------------------------
+% Epoch  WEEK      ToW     ToD      X_fix[m]       Y_fix[m]       Z_fix[m]       E_fix[m]     N_fix[m]     U_fix[m] 
+%-------------------------------------------------------------------------------------------------------------------------------
+      1  1877    381630   36030            NaN            NaN            NaN          NaN          NaN          NaN
+      2  1877    381660   36060            NaN            NaN            NaN          NaN          NaN          NaN
+      3  1877    381690   36090            NaN            NaN            NaN          NaN          NaN          NaN
+      4  1877    381720   36120            NaN            NaN            NaN          NaN          NaN          NaN
+      5  1877    381750   36150            NaN            NaN            NaN          NaN          NaN          NaN
+      6  1877    381780   36180            NaN            NaN            NaN          NaN          NaN          NaN
+      7  1877    381810   36210            NaN            NaN            NaN          NaN          NaN          NaN
+      8  1877    381840   36240            NaN            NaN            NaN          NaN          NaN          NaN
+      9  1877    381870   36270            NaN            NaN            NaN          NaN          NaN          NaN
+     10  1877    381900   36300            NaN            NaN            NaN          NaN          NaN          NaN
+     11  1877    381930   36330            NaN            NaN            NaN          NaN          NaN          NaN
+     12  1877    381960   36360            NaN            NaN            NaN          NaN          NaN          NaN
+     13  1877    381990   36390            NaN            NaN            NaN          NaN          NaN          NaN
+     14  1877    382020   36420            NaN            NaN            NaN          NaN          NaN          NaN
+     15  1877    382050   36450            NaN            NaN            NaN          NaN          NaN          NaN
+     16  1877    382080   36480            NaN            NaN            NaN          NaN          NaN          NaN
+     17  1877    382110   36510            NaN            NaN            NaN          NaN          NaN          NaN
+     18  1877    382140   36540            NaN            NaN            NaN          NaN          NaN          NaN
+     19  1877    382170   36570            NaN            NaN            NaN          NaN          NaN          NaN
+     20  1877    382200   36600            NaN            NaN            NaN          NaN          NaN          NaN
+     21  1877    382230   36630            NaN            NaN            NaN          NaN          NaN          NaN
+     22  1877    382260   36660            NaN            NaN            NaN          NaN          NaN          NaN
+     23  1877    382290   36690            NaN            NaN            NaN          NaN          NaN          NaN
+     24  1877    382320   36720            NaN            NaN            NaN          NaN          NaN          NaN
+     25  1877    382350   36750            NaN            NaN            NaN          NaN          NaN          NaN
+     26  1877    382380   36780            NaN            NaN            NaN          NaN          NaN          NaN
+     27  1877    382410   36810            NaN            NaN            NaN          NaN          NaN          NaN
+     28  1877    382440   36840            NaN            NaN            NaN          NaN          NaN          NaN
+     29  1877    382470   36870            NaN            NaN            NaN          NaN          NaN          NaN
+     30  1877    382500   36900            NaN            NaN            NaN          NaN          NaN          NaN
+     31  1877    382530   36930            NaN            NaN            NaN          NaN          NaN          NaN
+     32  1877    382560   36960            NaN            NaN            NaN          NaN          NaN          NaN
+     33  1877    382590   36990            NaN            NaN            NaN          NaN          NaN          NaN
+     34  1877    382620   37020            NaN            NaN            NaN          NaN          NaN          NaN
+     35  1877    382650   37050            NaN            NaN            NaN          NaN          NaN          NaN
+     36  1877    382680   37080            NaN            NaN            NaN          NaN          NaN          NaN
+     37  1877    382710   37110            NaN            NaN            NaN          NaN          NaN          NaN
+     38  1877    382740   37140            NaN            NaN            NaN          NaN          NaN          NaN
+     39  1877    382770   37170            NaN            NaN            NaN          NaN          NaN          NaN
+     40  1877    382800   37200            NaN            NaN            NaN          NaN          NaN          NaN
+     41  1877    382830   37230            NaN            NaN            NaN          NaN          NaN          NaN
+     42  1877    382860   37260            NaN            NaN            NaN          NaN          NaN          NaN
+     43  1877    382890   37290            NaN            NaN            NaN          NaN          NaN          NaN
+     44  1877    382920   37320            NaN            NaN            NaN          NaN          NaN          NaN
+     45  1877    382950   37350            NaN            NaN            NaN          NaN          NaN          NaN
+     46  1877    382980   37380            NaN            NaN            NaN          NaN          NaN          NaN
+     47  1877    383010   37410            NaN            NaN            NaN          NaN          NaN          NaN
+     48  1877    383040   37440            NaN            NaN            NaN          NaN          NaN          NaN
+     49  1877    383070   37470            NaN            NaN            NaN          NaN          NaN          NaN
+     50  1877    383100   37500            NaN            NaN            NaN          NaN          NaN          NaN
+     51  1877    383130   37530            NaN            NaN            NaN          NaN          NaN          NaN
+     52  1877    383160   37560            NaN            NaN            NaN          NaN          NaN          NaN
+     53  1877    383190   37590            NaN            NaN            NaN          NaN          NaN          NaN
+     54  1877    383220   37620            NaN            NaN            NaN          NaN          NaN          NaN
+     55  1877    383250   37650            NaN            NaN            NaN          NaN          NaN          NaN
+     56  1877    383280   37680            NaN            NaN            NaN          NaN          NaN          NaN
+     57  1877    383310   37710            NaN            NaN            NaN          NaN          NaN          NaN
+     58  1877    383340   37740            NaN            NaN            NaN          NaN          NaN          NaN
+     59  1877    383370   37770            NaN            NaN            NaN          NaN          NaN          NaN
+     60  1877    383400   37800            NaN            NaN            NaN          NaN          NaN          NaN
+     61  1877    383430   37830            NaN            NaN            NaN          NaN          NaN          NaN
+     62  1877    383460   37860            NaN            NaN            NaN          NaN          NaN          NaN
+     63  1877    383490   37890            NaN            NaN            NaN          NaN          NaN          NaN
+     64  1877    383520   37920            NaN            NaN            NaN          NaN          NaN          NaN
+     65  1877    383550   37950            NaN            NaN            NaN          NaN          NaN          NaN
+     66  1877    383580   37980            NaN            NaN            NaN          NaN          NaN          NaN
+     67  1877    383610   38010            NaN            NaN            NaN          NaN          NaN          NaN
+     68  1877    383640   38040            NaN            NaN            NaN          NaN          NaN          NaN
+     69  1877    383670   38070            NaN            NaN            NaN          NaN          NaN          NaN
+     70  1877    383700   38100            NaN            NaN            NaN          NaN          NaN          NaN
+     71  1877    383730   38130            NaN            NaN            NaN          NaN          NaN          NaN
+     72  1877    383760   38160            NaN            NaN            NaN          NaN          NaN          NaN
+     73  1877    383790   38190            NaN            NaN            NaN          NaN          NaN          NaN
+     74  1877    383820   38220            NaN            NaN            NaN          NaN          NaN          NaN
+     75  1877    383850   38250            NaN            NaN            NaN          NaN          NaN          NaN
+     76  1877    383880   38280            NaN            NaN            NaN          NaN          NaN          NaN
+     77  1877    383910   38310            NaN            NaN            NaN          NaN          NaN          NaN
+     78  1877    383940   38340            NaN            NaN            NaN          NaN          NaN          NaN
+     79  1877    383970   38370            NaN            NaN            NaN          NaN          NaN          NaN
+     80  1877    384000   38400            NaN            NaN            NaN          NaN          NaN          NaN
+     81  1877    384030   38430            NaN            NaN            NaN          NaN          NaN          NaN
+     82  1877    384060   38460            NaN            NaN            NaN          NaN          NaN          NaN
+     83  1877    384090   38490            NaN            NaN            NaN          NaN          NaN          NaN
+     84  1877    384120   38520            NaN            NaN            NaN          NaN          NaN          NaN
+     85  1877    384150   38550            NaN            NaN            NaN          NaN          NaN          NaN
+     86  1877    384180   38580            NaN            NaN            NaN          NaN          NaN          NaN
+     87  1877    384210   38610            NaN            NaN            NaN          NaN          NaN          NaN
+     88  1877    384240   38640            NaN            NaN            NaN          NaN          NaN          NaN
+     89  1877    384270   38670            NaN            NaN            NaN          NaN          NaN          NaN
+     90  1877    384300   38700            NaN            NaN            NaN          NaN          NaN          NaN
+     91  1877    384330   38730            NaN            NaN            NaN          NaN          NaN          NaN
+     92  1877    384360   38760            NaN            NaN            NaN          NaN          NaN          NaN
+     93  1877    384390   38790            NaN            NaN            NaN          NaN          NaN          NaN
+     94  1877    384420   38820            NaN            NaN            NaN          NaN          NaN          NaN
+     95  1877    384450   38850            NaN            NaN            NaN          NaN          NaN          NaN
+     96  1877    384480   38880            NaN            NaN            NaN          NaN          NaN          NaN
+     97  1877    384510   38910            NaN            NaN            NaN          NaN          NaN          NaN
+     98  1877    384540   38940            NaN            NaN            NaN          NaN          NaN          NaN
+     99  1877    384570   38970            NaN            NaN            NaN          NaN          NaN          NaN
+    100  1877    384600   39000            NaN            NaN            NaN          NaN          NaN          NaN
+    101  1877    384630   39030            NaN            NaN            NaN          NaN          NaN          NaN
+    102  1877    384660   39060            NaN            NaN            NaN          NaN          NaN          NaN
+    103  1877    384690   39090            NaN            NaN            NaN          NaN          NaN          NaN
+    104  1877    384720   39120            NaN            NaN            NaN          NaN          NaN          NaN
+    105  1877    384750   39150            NaN            NaN            NaN          NaN          NaN          NaN
+    106  1877    384780   39180            NaN            NaN            NaN          NaN          NaN          NaN
+    107  1877    384810   39210            NaN            NaN            NaN          NaN          NaN          NaN
+    108  1877    384840   39240            NaN            NaN            NaN          NaN          NaN          NaN
+    109  1877    384870   39270            NaN            NaN            NaN          NaN          NaN          NaN
+    110  1877    384900   39300            NaN            NaN            NaN          NaN          NaN          NaN
+    111  1877    384930   39330  -3762367.3068   3680867.5549   3590465.4139      -0.0606       0.1022       0.0461
+    112  1877    384960   39360            NaN            NaN            NaN          NaN          NaN          NaN
+    113  1877    384990   39390            NaN            NaN            NaN          NaN          NaN          NaN
+    114  1877    385020   39420            NaN            NaN            NaN          NaN          NaN          NaN
+    115  1877    385050   39450            NaN            NaN            NaN          NaN          NaN          NaN
+    116  1877    385080   39480            NaN            NaN            NaN          NaN          NaN          NaN
+    117  1877    385110   39510            NaN            NaN            NaN          NaN          NaN          NaN
+    118  1877    385140   39540            NaN            NaN            NaN          NaN          NaN          NaN
+    119  1877    385170   39570            NaN            NaN            NaN          NaN          NaN          NaN
+    120  1877    385200   39600            NaN            NaN            NaN          NaN          NaN          NaN
+    121  1877    385230   39630            NaN            NaN            NaN          NaN          NaN          NaN
+    122  1877    385260   39660            NaN            NaN            NaN          NaN          NaN          NaN
+    123  1877    385290   39690            NaN            NaN            NaN          NaN          NaN          NaN
+    124  1877    385320   39720            NaN            NaN            NaN          NaN          NaN          NaN
+    125  1877    385350   39750            NaN            NaN            NaN          NaN          NaN          NaN
+    126  1877    385380   39780            NaN            NaN            NaN          NaN          NaN          NaN
+    127  1877    385410   39810            NaN            NaN            NaN          NaN          NaN          NaN
+    128  1877    385440   39840            NaN            NaN            NaN          NaN          NaN          NaN
+    129  1877    385470   39870            NaN            NaN            NaN          NaN          NaN          NaN
+    130  1877    385500   39900            NaN            NaN            NaN          NaN          NaN          NaN
+    131  1877    385530   39930            NaN            NaN            NaN          NaN          NaN          NaN
+    132  1877    385560   39960            NaN            NaN            NaN          NaN          NaN          NaN
+    133  1877    385590   39990            NaN            NaN            NaN          NaN          NaN          NaN
+    134  1877    385620   40020            NaN            NaN            NaN          NaN          NaN          NaN
+    135  1877    385650   40050            NaN            NaN            NaN          NaN          NaN          NaN

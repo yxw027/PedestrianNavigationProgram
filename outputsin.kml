@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+  <name>Rover Track</name>
+  <Style>
+    <LineStyle>
+      <color>aa00FFFF</color>
+    </LineStyle>
+  </Style>
+  <LineString>
+    <coordinates>
+         135.963272926,   34.981795369,  159.072640821
+         135.963240533,   34.981781408,  158.672173869
+         135.963221114,   34.981762959,  158.446241178
+         135.963181534,   34.981733635,  157.641973828
+         135.963164876,   34.981700596,  156.892574910
+         135.963159338,   34.981700051,  156.322589311
+         135.963149664,   34.981689323,  156.514957586
+         135.963145295,   34.981690748,  156.659461338
+         135.963140524,   34.981692620,  156.276808046
+         135.963115531,   34.981671397,  156.421872034
+         135.963113790,   34.981675566,  156.246264603
+         135.963110451,   34.981669010,  156.395111803
+         135.963091362,   34.981652030,  156.454779590
+         135.963057347,   34.981630152,  155.899219381
+         135.963042057,   34.981612378,  155.738970070
+         135.963031683,   34.981602433,  155.584394002
+         135.963021493,   34.981596859,  155.716858866
+         135.963019171,   34.981593588,  155.861547885
+         135.963006727,   34.981585985,  156.036146195
+         135.963010078,   34.981589832,  155.970442881
+         135.962998810,   34.981584417,  156.202683875
+         135.962990939,   34.981578006,  156.324100958
+         135.962974499,   34.981570253,  156.217169942
+         135.962960404,   34.981558216,  157.122875208
+         135.962942838,   34.981546731,  156.831625861
+         135.962925610,   34.981535222,  156.669120956
+         135.962917453,   34.981529362,  156.722049062
+         135.962902385,   34.981517409,  157.257242379
+         135.962886407,   34.981505433,  157.381967114
+         135.962870835,   34.981493436,  157.680387780
+         135.962853786,   34.981481858,  157.559965017
+         135.962837583,   34.981470045,  157.719169133
+         135.962822165,   34.981457848,  158.053311872
+         135.962813759,   34.981451845,  157.941852156
+         135.962797887,   34.981439581,  158.028041901
+         135.962781685,   34.981427369,  157.985313663
+         135.962765595,   34.981415139,  157.985349021
+         135.962749337,   34.981403059,  157.985384927
+         135.962733057,   34.981390999,  157.985421449
+         135.962716982,   34.981378755,  157.985458697
+         135.962700890,   34.981366525,  157.985496565
+         135.962684871,   34.981354231,  157.985535094
+         135.962668573,   34.981342188,  157.985574119
+         135.962660443,   34.981336148,  157.985593877
+         135.962644185,   34.981324069,  157.985633861
+         135.962626799,   34.981312341,  157.690799013
+         135.962609037,   34.981300799,  157.325577789
+         135.962591762,   34.981289105,  157.088897561
+         135.962573242,   34.981277439,  156.318029926
+         135.962563436,   34.981271480,  155.732898331
+         135.962545002,   34.981259775,  155.080715998
+         135.962524339,   34.981248500,  153.727912054
+         135.962505274,   34.981236969,  152.874750592
+         135.962487055,   34.981225559,  152.360315754
+         135.962470401,   34.981213813,  152.364801099
+         135.962454358,   34.981202074,  152.590586080
+         135.962439206,   34.981190239,  153.143951573
+         135.962424332,   34.981178440,  153.801461336
+         135.962418148,   34.981172324,  154.534363815
+         135.962404786,   34.981159995,  155.689409755
+         135.962368936,   34.981134935,  155.501280911
+         135.962335658,   34.981111435,  155.565713827
+         135.962311352,   34.981094114,  155.607682451
+         135.962305410,   34.981089687,  155.689788759
+         135.962282916,   34.981074092,  155.723064359
+         135.962284188,   34.981074883,  155.769353577
+         135.962262037,   34.981058184,  155.816180321
+         135.962253751,   34.981050920,  155.877587908
+         135.962238065,   34.981040043,  155.891619472
+         135.962241567,   34.981043672,  155.913224417
+         135.962267420,   34.981063989,  155.953511446
+         135.962256755,   34.981054339,  155.976258836
+         135.962246253,   34.981044258,  156.015683618
+         135.962236077,   34.981032851,  156.065951281
+         135.962237359,   34.981030961,  156.115381707
+         135.962231791,   34.981026413,  156.130796057
+         135.962226922,   34.981021688,  156.151767737
+         135.962219377,   34.981009305,  156.205902667
+    </coordinates>
+  </LineString>
+</Placemark>
+<Folder>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:44.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963272926,   34.981795369,  159.072640821</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:45.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963240533,   34.981781408,  158.672173869</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:46.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963221114,   34.981762959,  158.446241178</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:47.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963181534,   34.981733635,  157.641973828</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:48.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963164876,   34.981700596,  156.892574910</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:49.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963159338,   34.981700051,  156.322589311</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:50.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963149664,   34.981689323,  156.514957586</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:51.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963145295,   34.981690748,  156.659461338</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:52.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963140524,   34.981692620,  156.276808046</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:53.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963115531,   34.981671397,  156.421872034</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:54.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963113790,   34.981675566,  156.246264603</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:55.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963110451,   34.981669010,  156.395111803</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:56.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963091362,   34.981652030,  156.454779590</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:57.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963057347,   34.981630152,  155.899219381</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:58.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963042057,   34.981612378,  155.738970070</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:59.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963031683,   34.981602433,  155.584394002</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:24:60.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963021493,   34.981596859,  155.716858866</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:1.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963019171,   34.981593588,  155.861547885</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:2.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963006727,   34.981585985,  156.036146195</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:3.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963010078,   34.981589832,  155.970442881</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:4.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962998810,   34.981584417,  156.202683875</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:5.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962990939,   34.981578006,  156.324100958</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:6.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962974499,   34.981570253,  156.217169942</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:7.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962960404,   34.981558216,  157.122875208</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:8.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962942838,   34.981546731,  156.831625861</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:9.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962925610,   34.981535222,  156.669120956</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:10.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962917453,   34.981529362,  156.722049062</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:11.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962902385,   34.981517409,  157.257242379</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:12.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962886407,   34.981505433,  157.381967114</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:13.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962870835,   34.981493436,  157.680387780</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:14.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962853786,   34.981481858,  157.559965017</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:15.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962837583,   34.981470045,  157.719169133</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:16.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962822165,   34.981457848,  158.053311872</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:17.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962813759,   34.981451845,  157.941852156</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:18.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962797887,   34.981439581,  158.028041901</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:19.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962781685,   34.981427369,  157.985313663</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:20.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962765595,   34.981415139,  157.985349021</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:21.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962749337,   34.981403059,  157.985384927</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:22.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962733057,   34.981390999,  157.985421449</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:23.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962716982,   34.981378755,  157.985458697</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:24.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962700890,   34.981366525,  157.985496565</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:25.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962684871,   34.981354231,  157.985535094</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:26.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962668573,   34.981342188,  157.985574119</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:27.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962660443,   34.981336148,  157.985593877</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:28.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962644185,   34.981324069,  157.985633861</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:29.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962626799,   34.981312341,  157.690799013</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:30.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962609037,   34.981300799,  157.325577789</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:31.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962591762,   34.981289105,  157.088897561</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:32.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962573242,   34.981277439,  156.318029926</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:33.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962563436,   34.981271480,  155.732898331</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:34.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962545002,   34.981259775,  155.080715998</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:35.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962524339,   34.981248500,  153.727912054</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:36.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962505274,   34.981236969,  152.874750592</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:37.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962487055,   34.981225559,  152.360315754</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:38.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962470401,   34.981213813,  152.364801099</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:39.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962454358,   34.981202074,  152.590586080</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:40.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962439206,   34.981190239,  153.143951573</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:41.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962424332,   34.981178440,  153.801461336</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:42.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962418148,   34.981172324,  154.534363815</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:43.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962404786,   34.981159995,  155.689409755</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:44.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962368936,   34.981134935,  155.501280911</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:45.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962335658,   34.981111435,  155.565713827</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:46.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962311352,   34.981094114,  155.607682451</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:47.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962305410,   34.981089687,  155.689788759</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:48.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962282916,   34.981074092,  155.723064359</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:49.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962284188,   34.981074883,  155.769353577</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:50.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962262037,   34.981058184,  155.816180321</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:51.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962253751,   34.981050920,  155.877587908</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:52.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962238065,   34.981040043,  155.891619472</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:53.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962241567,   34.981043672,  155.913224417</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:54.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962267420,   34.981063989,  155.953511446</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:55.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962256755,   34.981054339,  155.976258836</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:56.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962246253,   34.981044258,  156.015683618</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:57.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962236077,   34.981032851,  156.065951281</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:58.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962237359,   34.981030961,  156.115381707</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:59.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962231791,   34.981026413,  156.130796057</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:25:60.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962226922,   34.981021688,  156.151767737</coordinates>
+  </Point>
+</Placemark>
+  <name>Rover Position</name>
+<Placemark>
+  <TimeStamp><when>2017-12-19T06:26:1.00Z</when></TimeStamp>
+  <Style>
+    <IconStyle>
+      <scale>0.2</scale>
+      <color>ff0000FF</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962219377,   34.981009305,  156.205902667</coordinates>
+  </Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

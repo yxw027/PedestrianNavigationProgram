@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+  <name>Rover d</name>
+  <Style>
+    <LineStyle>
+      <color>aa00FF00</color>
+    </LineStyle>
+  </Style>
+  <LineString>
+    <coordinates>
+       3636825.6490656263,-3761310.9693986899,3635976.0330496263
+       3636822.4773991094,-3761310.1826240928,3635978.1134518669
+       3636822.4973979061,-3761310.5448783482,3635977.7460428900
+       3636821.4338048408,-3761309.8956770999,3635978.7379706763
+       3636821.6691585314,-3761309.3080013222,3635979.0341479643
+       3636820.3658683063,-3761308.4377932190,3635980.0803072788
+       3636820.2052570921,-3761308.6897938857,3635979.9321824885
+       3636819.7046049540,-3761307.5805407315,3635980.5557036996
+       3636819.1321860384,-3761307.8576526837,3635980.5983202895
+       3636818.2679511793,-3761307.0009465250,3635980.8747272268
+       3636817.9607612505,-3761306.8978343164,3635980.9354305072
+       3636817.6154281641,-3761307.0634740419,3635980.7528734119
+       3636816.9984924514,-3761307.2186151249,3635980.9105686145
+       3636816.9118852196,-3761307.5356391403,3635980.4933764609
+       3636816.1113814879,-3761307.2359454501,3635979.9356726101
+                   NaN,            NaN,            NaN
+    </coordinates>
+  </LineString>
+</Placemark>
+<Folder>
+<Placemark>
+  <name>   1-2037-198463T25663:2019:1.00Z</name>
+  <description>   1-2037-198463T25663:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   1-2037-198463T25663:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636825.649065626,-3761310.969398690,3635976.033049626</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   2-2037-198464T25664:2019:1.00Z</name>
+  <description>   2-2037-198464T25664:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   2-2037-198464T25664:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636822.477399109,-3761310.182624093,3635978.113451867</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   3-2037-198465T25665:2019:1.00Z</name>
+  <description>   3-2037-198465T25665:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   3-2037-198465T25665:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636822.497397906,-3761310.544878348,3635977.746042890</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   4-2037-198466T25666:2019:1.00Z</name>
+  <description>   4-2037-198466T25666:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   4-2037-198466T25666:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636821.433804841,-3761309.895677100,3635978.737970676</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   5-2037-198467T25667:2019:1.00Z</name>
+  <description>   5-2037-198467T25667:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   5-2037-198467T25667:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636821.669158531,-3761309.308001322,3635979.034147964</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   6-2037-198468T25668:2019:1.00Z</name>
+  <description>   6-2037-198468T25668:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   6-2037-198468T25668:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636820.365868306,-3761308.437793219,3635980.080307279</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   7-2037-198469T25669:2019:1.00Z</name>
+  <description>   7-2037-198469T25669:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   7-2037-198469T25669:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636820.205257092,-3761308.689793886,3635979.932182488</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   8-2037-198470T25670:2019:1.00Z</name>
+  <description>   8-2037-198470T25670:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   8-2037-198470T25670:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636819.704604954,-3761307.580540732,3635980.555703700</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   9-2037-198471T25671:2019:1.00Z</name>
+  <description>   9-2037-198471T25671:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   9-2037-198471T25671:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636819.132186038,-3761307.857652684,3635980.598320290</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  10-2037-198472T25672:2019:1.00Z</name>
+  <description>  10-2037-198472T25672:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  10-2037-198472T25672:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636818.267951179,-3761307.000946525,3635980.874727227</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  11-2037-198473T25673:2019:1.00Z</name>
+  <description>  11-2037-198473T25673:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  11-2037-198473T25673:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636817.960761250,-3761306.897834316,3635980.935430507</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  12-2037-198474T25674:2019:1.00Z</name>
+  <description>  12-2037-198474T25674:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  12-2037-198474T25674:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636817.615428164,-3761307.063474042,3635980.752873412</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  13-2037-198475T25675:2019:1.00Z</name>
+  <description>  13-2037-198475T25675:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  13-2037-198475T25675:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636816.998492451,-3761307.218615125,3635980.910568614</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  14-2037-198476T25676:2019:1.00Z</name>
+  <description>  14-2037-198476T25676:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  14-2037-198476T25676:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636816.911885220,-3761307.535639140,3635980.493376461</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  15-2037-198477T25677:2019:1.00Z</name>
+  <description>  15-2037-198477T25677:2019:1.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  15-2037-198477T25677:2019:1.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>3636816.111381488,-3761307.235945450,3635979.935672610</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  16-NaN-NaNTNaN:NaN: NaNZ</name>
+  <description>  16-NaN-NaNTNaN:NaN: NaNZ</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  16-NaN-NaNTNaN:NaN: NaNZ</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>            NaN,            NaN,            NaN</coordinates>
+  </Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

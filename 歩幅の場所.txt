@@ -1,0 +1,18 @@
+ï‡ïù
+Result.ppp.walk
+kalx_f 9
+1195 Result.ppp.walk(1,timetag)=Kalx_f(9);
+
+ syoki=[135.9632729264,0034.9817953687,0195.8691933509];
+        syoki2=llh2xyz(syoki) Ç±Ç±Ç‹Ç≈
+        syoki3=xyz2llh(syoki2)
+
+1.0e+06 *
+
+    3.7343    1.6868   -4.8716
+
+Result.ppp.pos(timetag,:)=[Kalx_f(1:3)', xyz2llh(Kalx_f(1:3)).*[180/pi 180/pi 1]];
+
+if timetag<=1
+            Kalf_x(1:2)=[1.0e+06*3.7343 ,1.0e+06*1.6868];
+        end

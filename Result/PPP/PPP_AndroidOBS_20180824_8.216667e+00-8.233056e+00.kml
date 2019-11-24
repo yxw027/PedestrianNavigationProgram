@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+  <name>Rover d</name>
+  <Style>
+    <LineStyle>
+      <color>aa00FF00</color>
+    </LineStyle>
+  </Style>
+  <LineString>
+    <coordinates>
+       0135.9625657173,0034.9829249839,0195.0117441267
+       0135.9625834075,0034.9829284307,0195.5290457401
+       0135.9626103538,0034.9829360868,0195.3490521107
+       0135.9626256799,0034.9829333699,0195.0466181887
+       0135.9626425792,0034.9829371352,0194.9103226215
+       0135.9626488210,0034.9829323727,0194.4714764403
+       0135.9626625226,0034.9829542672,0194.1122377953
+       0135.9626746923,0034.9829703029,0193.6623439230
+       0135.9626605493,0034.9829392493,0187.3504211502
+       0135.9626278599,0034.9828970735,0183.3078826144
+       0135.9629422662,0034.9826561416,0161.5908590714
+       0135.9632326083,0034.9829619040,0161.6289538536
+       0135.9632365815,0034.9829614662,0161.6252224715
+       0135.9632403737,0034.9829610226,0161.6181522980
+       0135.9632442002,0034.9829603628,0161.6135340352
+       0135.9632469323,0034.9829593182,0161.6074140463
+       0135.9632511979,0034.9829582170,0161.6040269053
+       0135.9632555659,0034.9829567597,0161.6015002988
+       0135.9632582997,0034.9829549801,0161.5964407092
+       0135.9632678281,0034.9829522368,0161.5907365549
+       0135.9632799310,0034.9829481658,0161.5801686710
+       0135.9632995733,0034.9829431785,0161.5735503454
+       0135.9633076778,0034.9829352429,0161.5639067357
+       0135.9633222621,0034.9829244518,0161.5549340993
+       0135.9633877044,0034.9828783664,0161.5547708701
+       0135.9634032061,0034.9828650282,0161.5554175358
+       0135.9634344748,0034.9828373443,0161.5564078745
+    </coordinates>
+  </LineString>
+</Placemark>
+<Folder>
+<Placemark>
+  <name>   1-2015-461580T29580:2018:8.00Z</name>
+  <description>   1-2015-461580T29580:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   1-2015-461580T29580:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962565717,   34.982924984,  195.011744127</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   2-2015-461581T29581:2018:8.00Z</name>
+  <description>   2-2015-461581T29581:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   2-2015-461581T29581:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962583407,   34.982928431,  195.529045740</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   3-2015-461582T29582:2018:8.00Z</name>
+  <description>   3-2015-461582T29582:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   3-2015-461582T29582:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962610354,   34.982936087,  195.349052111</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   4-2015-461583T29583:2018:8.00Z</name>
+  <description>   4-2015-461583T29583:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   4-2015-461583T29583:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962625680,   34.982933370,  195.046618189</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   5-2015-461584T29584:2018:8.00Z</name>
+  <description>   5-2015-461584T29584:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   5-2015-461584T29584:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962642579,   34.982937135,  194.910322621</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   6-2015-461585T29585:2018:8.00Z</name>
+  <description>   6-2015-461585T29585:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   6-2015-461585T29585:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962648821,   34.982932373,  194.471476440</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   7-2015-461586T29586:2018:8.00Z</name>
+  <description>   7-2015-461586T29586:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   7-2015-461586T29586:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962662523,   34.982954267,  194.112237795</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   8-2015-461587T29587:2018:8.00Z</name>
+  <description>   8-2015-461587T29587:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   8-2015-461587T29587:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962674692,   34.982970303,  193.662343923</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>   9-2015-461588T29588:2018:8.00Z</name>
+  <description>   9-2015-461588T29588:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>   9-2015-461588T29588:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962660549,   34.982939249,  187.350421150</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  10-2015-461589T29589:2018:8.00Z</name>
+  <description>  10-2015-461589T29589:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  10-2015-461589T29589:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962627860,   34.982897074,  183.307882614</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  15-2015-461623T29623:2018:8.00Z</name>
+  <description>  15-2015-461623T29623:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  15-2015-461623T29623:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.962942266,   34.982656142,  161.590859071</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  16-2015-461624T29624:2018:8.00Z</name>
+  <description>  16-2015-461624T29624:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  16-2015-461624T29624:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963232608,   34.982961904,  161.628953854</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  17-2015-461625T29625:2018:8.00Z</name>
+  <description>  17-2015-461625T29625:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  17-2015-461625T29625:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963236581,   34.982961466,  161.625222472</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  18-2015-461626T29626:2018:8.00Z</name>
+  <description>  18-2015-461626T29626:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  18-2015-461626T29626:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963240374,   34.982961023,  161.618152298</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  19-2015-461627T29627:2018:8.00Z</name>
+  <description>  19-2015-461627T29627:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  19-2015-461627T29627:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963244200,   34.982960363,  161.613534035</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  20-2015-461628T29628:2018:8.00Z</name>
+  <description>  20-2015-461628T29628:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  20-2015-461628T29628:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963246932,   34.982959318,  161.607414046</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  21-2015-461629T29629:2018:8.00Z</name>
+  <description>  21-2015-461629T29629:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  21-2015-461629T29629:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963251198,   34.982958217,  161.604026905</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  22-2015-461630T29630:2018:8.00Z</name>
+  <description>  22-2015-461630T29630:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  22-2015-461630T29630:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963255566,   34.982956760,  161.601500299</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  23-2015-461631T29631:2018:8.00Z</name>
+  <description>  23-2015-461631T29631:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  23-2015-461631T29631:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963258300,   34.982954980,  161.596440709</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  24-2015-461632T29632:2018:8.00Z</name>
+  <description>  24-2015-461632T29632:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  24-2015-461632T29632:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963267828,   34.982952237,  161.590736555</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  25-2015-461633T29633:2018:8.00Z</name>
+  <description>  25-2015-461633T29633:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  25-2015-461633T29633:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963279931,   34.982948166,  161.580168671</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  26-2015-461634T29634:2018:8.00Z</name>
+  <description>  26-2015-461634T29634:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  26-2015-461634T29634:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963299573,   34.982943178,  161.573550345</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  27-2015-461635T29635:2018:8.00Z</name>
+  <description>  27-2015-461635T29635:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  27-2015-461635T29635:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963307678,   34.982935243,  161.563906736</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  28-2015-461636T29636:2018:8.00Z</name>
+  <description>  28-2015-461636T29636:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  28-2015-461636T29636:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963322262,   34.982924452,  161.554934099</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  29-2015-461637T29637:2018:8.00Z</name>
+  <description>  29-2015-461637T29637:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  29-2015-461637T29637:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963387704,   34.982878366,  161.554770870</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  30-2015-461638T29638:2018:8.00Z</name>
+  <description>  30-2015-461638T29638:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  30-2015-461638T29638:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963403206,   34.982865028,  161.555417536</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>  31-2015-461639T29639:2018:8.00Z</name>
+  <description>  31-2015-461639T29639:2018:8.00Z</description>
+  <Snippet maxLines="2" ></Snippet>
+  <TimeStamp><when>  31-2015-461639T29639:2018:8.00Z</when></TimeStamp>
+  <Style>
+    <BalloonStyle><text><![CDATA[$[description]]]></text></BalloonStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+    <IconStyle>
+      <scale>0.3</scale>
+      <color>ff00FF00</color>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>  135.963434475,   34.982837344,  161.556407874</coordinates>
+  </Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
